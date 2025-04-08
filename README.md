@@ -1,5 +1,7 @@
-## Work in progress 😜
-https://leetcode.com/u/robeuna/
+## Welcome to my Github!
+
+Link to my LeetCode profile: https://leetcode.com/u/robeuna/
+⚡ Fun fact: 4th best Tekken player in Winnipeg 2024
 <!--
 **Robeuna/Robeuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
